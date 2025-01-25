@@ -1,4 +1,4 @@
-/* make a pattern simple pyramid */
+//  make a pattern simple pyramid. row = column 
 #include <iostream>
 using namespace std;
 int main(){
@@ -13,4 +13,6 @@ int main(){
         }
         cout<<endl;
     }
-}
+} 
+
+
