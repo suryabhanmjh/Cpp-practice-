@@ -11,7 +11,7 @@ int main(){
     cin>>col;
     for(int i=1; i<=row; i++){
         for(int j=1; j<=col; j++){
-            if(j>=i){
+            if(j>=row+1-i){
                 cout<<"*";
             }
             else{
