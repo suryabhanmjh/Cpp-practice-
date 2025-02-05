@@ -15,6 +15,6 @@ int main(){
     cout<<"Enter the number of terms:";
     cin>>n;
     for(int i=0;i<n;i++){
-        cout<<fibonacci(i)<<" ";
+        cout<<fibonacci(i)<<",";
     }
 }
