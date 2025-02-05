@@ -9,3 +9,5 @@ int main(){
     }
     cout<<sum<<" is the sum of the array";
 } 
+
+// done

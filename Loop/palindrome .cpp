@@ -22,3 +22,5 @@ int main(){
         cout<<"The number is not a palindrome";
     }
 }
+
+// done

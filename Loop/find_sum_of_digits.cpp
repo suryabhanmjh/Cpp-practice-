@@ -13,3 +13,5 @@ int main(){
     }
     cout<<"The sum of the digits is "<<sum;
 }
+
+// done

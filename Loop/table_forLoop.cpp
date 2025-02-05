@@ -9,3 +9,5 @@ int main(){
         cout<<table*i<<endl;
     }
 }
+
+done

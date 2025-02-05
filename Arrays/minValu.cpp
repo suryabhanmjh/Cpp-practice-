@@ -11,3 +11,5 @@ int main(){
     }
     cout<<"Min value is: "<<min;
 }
+
+// done

@@ -11,3 +11,5 @@ int main(){
     }
     while(i<=10);
 }
+
+done

@@ -19,3 +19,5 @@ int main(){
         cout<<"The number is not an armstrong number";
     }
 }
+
+// done

@@ -10,7 +10,9 @@ int main(){
     while(num>0){
 
         int digit=num%10;
-        cout<<digit<<endl;
+        cout<<digit;
         num=num/10;
     }
 }
+
+done

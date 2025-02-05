@@ -12,3 +12,5 @@ int main(){
     }
     cout<<sum;
 }
+
+// done

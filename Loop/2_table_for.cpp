@@ -8,3 +8,5 @@ int main(){
         cout<<2*i<<endl;
     }
 }
+
+done

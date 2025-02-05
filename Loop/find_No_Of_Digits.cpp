@@ -12,3 +12,5 @@ int main(){
     }
     cout<<"The number of digits in the given number is "<<count;
 }
+
+// done
