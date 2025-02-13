@@ -8,7 +8,7 @@ using namespace std;
 int main() {
 
     string s1 = "abc";
-string s2 = "aggbadffc";
+    string s2 = "aggbadffc";
 
     int i = 0, j = 0;
     while (i < s1.length() && j < s2.length()) {
