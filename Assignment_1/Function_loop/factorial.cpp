@@ -12,6 +12,6 @@ long long factorial(int n) {
 }
 
 int main() {
-    cout << factorial(5);
+    cout << factorial(6);
     return 0;
 }
