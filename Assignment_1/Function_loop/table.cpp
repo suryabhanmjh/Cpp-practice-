@@ -11,6 +11,6 @@ void Table(int n) {
 }
 
 int main() {
-    Table(5);
+    Table(4);
     return 0;
 }

@@ -14,6 +14,6 @@ int sum(int n) {
 
 int main() {
     cout <<"The sum of the number is: ";
-    cout << sum(1234);
+    cout << sum(7853);
     return 0;
 }
